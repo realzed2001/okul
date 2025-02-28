@@ -1,12 +1,15 @@
 import cv2
 from pyzbar import pyzbar
 import numpy as np
+from datetime import datetime  # datetime modülünü içe aktar
 
 def decode_qr(frame):
     decoded_objects = pyzbar.decode(frame)
     for obj in decoded_objects:
         # QR kodunun içeriğini yazdır
-        print("QR Code:", obj.data.decode("utf-8"))
+        qr_data = obj.data.decode("utf-8")
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        print(f"QR Code: {qr_data} | Timestamp: {timestamp}")
         # QR kodunun etrafına dikdörtgen çiz
         points = obj.polygon
         if len(points) == 4:
