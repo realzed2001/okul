@@ -6,7 +6,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    client_ip = request.client.host
+    #client_ip = request.client.host
     return {"message": "Hello, World!"}
 
 @app.get("/items/{item_id}")
