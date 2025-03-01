@@ -6,6 +6,10 @@ from datetime import datetime
 # Global değişkeni tanımla
 son = ""
 
+# Kullanıcı isimlerini dosyadan oku
+with open("kullanicilar.txt", "r") as file:
+    kullanicilar = [line.strip() for line in file.readlines()]
+
 def decode_qr(frame):
     global son  # Global değişkeni kullan
     decoded_objects = pyzbar.decode(frame)
@@ -18,7 +22,12 @@ def decode_qr(frame):
                 file.write(f"QR Code: {qr_data} | Timestamp: {timestamp}\n")
             son = qr_data  # Global değişkeni güncelle
 
-            print(f"QR Code: {qr_data} | Timestamp: {timestamp}")
+            # Kullanıcı kontrolü
+            if qr_data in kullanicilar:
+                print(f"Kullanıcı var: {qr_data} | Timestamp: {timestamp}")
+            else:
+                print(f"Kullanıcı yok: {qr_data} | Timestamp: {timestamp}")
+
         # QR kodunun etrafına dikdörtgen çiz
         points = obj.polygon
         if len(points) == 4:
