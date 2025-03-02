@@ -3,3 +3,46 @@ QR Code: deneme | Timestamp: 2025-02-28 11:05:05
 QR Code: deneme | Timestamp: 2025-02-28 11:12:00
 QR Code: Ahmet fahli | Timestamp: 2025-02-28 11:12:17
 QR Code: Ahmet Fahli | Timestamp: 2025-02-28 11:12:27
+QR Code: telefondan gelen bilgi | Timestamp: 2025-03-02 15:22:36
+QR Code: telefondan gelen bilgi | Timestamp: 2025-03-02 15:28:47
+QR Code: telefondan gelen bilgi ne kadar fazla olmasını istediğiniz | Timestamp: 2025-03-02 15:29:16
+QR Code: ￼￼Mobilhanem
+
+OpenCv’de Video Çözünürlüğü ve Skalalama İşlemi
+
+￼ Yunus Emre Aydın
+
+5 sene önce
+
+￼￼
+
+Merhaba arkadaşlar, Mobilhanem.com sitemizde Python ile Görüntü İşleme Dersleri eğitim serisine kaldığımız yerden devam ediyoruz. Geçen dersimizde OpenCv’de Video Boyutlandırma ve Gri Tonlamadan bahse | Timestamp: 2025-03-02 15:30:41
+QR Code: ￼￼Mobilhanem
+
+OpenCv’de Video Çözünürlüğü ve Skalalama İşlemi
+
+￼ Yunus Emre Aydın
+
+Merhaba arkadaşlar, Mobilhanem.com sitemizde Python ile Görüntü İşleme Dersleri eğitim serisine kaldığımız yerden devam ediyoruz. Geçen dersimizde OpenCv’de Video Bo | Timestamp: 2025-03-02 15:38:59
+QR Code: ￼￼Mobilhanem
+
+OpenCv’de Video Çözünürlüğü ve Skalalama İşlemi
+
+￼ Yunus Emre Aydın
+
+Merhaba arkadaşlar, Mobilhanem.com sitemizde Python ile Görüntü İşleme Dersleri eğitim serisine kaldığımız yerden devam ediyoruz. Geçen dersimizde OpenCv’de Video Bo | Timestamp: 2025-03-02 15:40:03
+QR Code: naber | Timestamp: 2025-03-02 16:16:49
+QR Code: naber | Timestamp: 2025-03-02 16:23:06
+QR Code: exit | Timestamp: 2025-03-02 16:23:16
+QR Code: exit  | Timestamp: 2025-03-02 16:23:51
+QR Code: exit | Timestamp: 2025-03-02 16:23:57
+QR Code: exit | Timestamp: 2025-03-02 16:24:30
+QR Code: öğrenci 1 | Timestamp: 2025-03-02 16:27:28
+QR Code: Ahmet Fahlioğulları | Timestamp: 2025-03-02 16:27:34
+QR Code: öğrenci 1 | Timestamp: 2025-03-02 16:27:40
+QR Code: exit | Timestamp: 2025-03-02 16:27:46
+QR Code: exit | Timestamp: 2025-03-02 16:32:00
+QR Code: exit | Timestamp: 2025-03-02 16:34:16
+QR Code: Ahmet Fahlioğulları | Timestamp: 2025-03-02 16:35:14
+QR Code: öğrenci 1 | Timestamp: 2025-03-02 16:35:19
+QR Code: exit | Timestamp: 2025-03-02 16:35:27

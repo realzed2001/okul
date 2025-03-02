@@ -12,21 +12,20 @@ def decode_qr(frame):
     for obj in decoded_objects:
         # QR kodunun içeriğini yazdır
         qr_data = obj.data.decode("utf-8")
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        
         if son != qr_data:
+            timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             with open("qr_codes.txt", "a") as file:
                 file.write(f"QR Code: {qr_data} | Timestamp: {timestamp}\n")
             son = qr_data  # Global değişkeni güncelle
 
             print(f"QR Code: {qr_data} | Timestamp: {timestamp}")
         if qr_data == "exit":
+            cap.release()
+            cv2.destroyAllWindows()
+            file.close()
             exit()
-        # QR kodunun etrafına dikdörtgen çiz
-#        points = obj.polygon
-#        if len(points) == 4:
-#            pts = [(point.x, point.y) for point in points]
-#            pts = np.array(pts, dtype=np.int32)
-#            cv2.polylines(frame, [pts], isClosed=True, color=(0, 255, 0), thickness=2)
+
     return frame
 
 # Kamerayı başlat
@@ -49,13 +48,8 @@ while True:
     # QR kodlarını tara
     frame = decode_qr(frame)
 
-    # Sonucu göster bu satırı iptal ederek daha performanslı çalışıyor ekranda kamera görünmüyor
- ###    cv2.imshow("QR Code Reader", frame)
-
-    # 'q' tuşuna basıldığında çık
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
 
 # Kamerayı serbest bırak ve pencereleri kapat
 cap.release()
 cv2.destroyAllWindows()
+file.close()
