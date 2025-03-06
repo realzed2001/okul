@@ -64,3 +64,8 @@ QR Code: exit | Timestamp: 2025-03-04 01:05:39
 QR Code: telefon dan sevgilerle | Timestamp: 2025-03-04 01:16:55
 QR Code: telefon dan mesaj | Timestamp: 2025-03-04 01:17:18
 QR Code: telefon dan mesaj123456789012345 | Timestamp: 2025-03-04 01:21:10
+QR Code: naber | Timestamp: 2025-03-05 14:16:31
+QR Code: berkecan | Timestamp: 2025-03-05 14:17:35
+QR Code: Ahmet Fahlioğulları | Timestamp: 2025-03-05 14:18:30
+QR Code: exit | Timestamp: 2025-03-05 14:18:59
+QR Code: kadir karayün 10D | Timestamp: 2025-03-05 14:59:49
