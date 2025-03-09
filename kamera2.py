@@ -59,6 +59,8 @@ def decode_qr(frame):
             lcd.cursor_pos = (0, 0)
             lcd.write_string(replace_turkish_chars( qr_data)[:lcd_columns])
             lcd.cursor_pos = (1, 0)
+            lcd.write_string(replace_turkish_chars( qr_data)[lcd_columns:lcd_columns*2])
+            lcd.cursor_pos = (2, 0)
             lcd.write_string(replace_turkish_chars( timestamp)[:lcd_columns])
             print(f"QR Code: {qr_data} | Timestamp: {timestamp}")
         if qr_data == "exit":
