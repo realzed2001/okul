@@ -58,3 +58,7 @@ QR Code: Ahmet FahlioÄŸullarÄ± | Timestamp: 2025-03-04 00:46:26
 QR Code: Ã¶ÄŸrenci 1 | Timestamp: 2025-03-04 00:46:47
 QR Code: Ahmet FahlioÄŸullarÄ± | Timestamp: 2025-03-04 00:48:26
 QR Code: Ahmet FahlioÄŸullarÄ± | Timestamp: 2025-03-04 00:49:48
+QR Code: Ahmet Fahlioðullarý | Timestamp: 2025-03-04 10:53:36
+QR Code: exit | Timestamp: 2025-03-04 10:53:42
+QR Code: öðrenci 1 | Timestamp: 2025-03-04 10:53:46
+QR Code: Ahmet Fahlioðullarý | Timestamp: 2025-03-04 10:53:51
