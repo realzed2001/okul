@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 #include <FS.h>
 
-const char* ssid = "YOUR_SSID";
-const char* password = "YOUR_PASSWORD";
+const char* ssid = "TurkTelekom_TPD626_2.4GHz";
+const char* password = "hFVd9brKhD9q";
 
 ESP8266WebServer server(80);
 
