@@ -1,3 +1,6 @@
+#nisan 2025 kamera ve keran düzgün çalışıyor
+# -*- coding: utf-8 -*-
+#----------------------------------------------------------------------------------
 import cv2
 from pyzbar import pyzbar
 import numpy as np
