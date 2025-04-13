@@ -87,3 +87,7 @@ QR Code: exit | Timestamp: 13/04/25 123733
 QR Code: exit | Timestamp: 13/04/25 12:37:58
 QR Code: exit | Timestamp: 13/04/2512:38:48
 QR Code: exit | Timestamp: 12:41:07  130425
+QR Code: öğrenci 1 | Timestamp: 22:38:33  130425
+QR Code: exit | Timestamp: 22:38:45  130425
+QR Code: öğrenci 1 | Timestamp: 23:29:59  130425
+QR Code: exit | Timestamp: 23:30:17  130425

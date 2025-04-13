@@ -4,6 +4,8 @@ import cv2
 # Kamerayı başlat
 cap = cv2.VideoCapture(0)
 
+
+
 if not cap.isOpened():
     print("Kamera açılamadı")
     exit()

@@ -11,7 +11,7 @@ from smbus2 import SMBus
 from RPLCD.i2c import CharLCD
 
 # Define I2C address and bus number
-i2c_address = 0x27  # Change this to your I2C address
+i2c_address = 0x3f#27  # Change this to your I2C address
 i2c_busnum = 1      # Change this to your I2C bus number if necessary
 
 # Initialize the I2C interface
