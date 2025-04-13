@@ -78,3 +78,12 @@ QR Code: kadir karayün 10D | Timestamp: 2025-03-05 14:59:49
 >>>>>>> d6a62f8d50d07fdf14fd84eb08133d23bc0f09ca
 QR Code: öğrenci 1 | Timestamp: 2025-04-06 16:23:38
 QR Code: exit | Timestamp: 2025-04-06 16:23:46
+QR Code: öğrenci 1 | Timestamp: 2025-04-13 12:32:42
+QR Code: exit | Timestamp: 2025-04-13 12:34:02
+QR Code: exit | Timestamp: 2025-04-13 12:34:23
+QR Code: exit | Timestamp: 13/04-25 12:35:55
+QR Code: exit | Timestamp: 13/04/25  12:36
+QR Code: exit | Timestamp: 13/04/25 123733
+QR Code: exit | Timestamp: 13/04/25 12:37:58
+QR Code: exit | Timestamp: 13/04/2512:38:48
+QR Code: exit | Timestamp: 12:41:07  130425
